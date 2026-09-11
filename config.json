@@ -1,0 +1,13 @@
+{
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/my-spider.jar;md5;aaeb0966473db2deab40130fbce73bb8",
+  "sites": [
+    {
+      "key": "kan360",
+      "name": "360影视",
+      "type": 3,
+      "api": "csp_Kan360",
+      "searchable": 1,
+      "ext": {}
+    }
+  ]
+}
