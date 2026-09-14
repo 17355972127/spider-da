@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/spider-pansou-test.jar;md5;3842a51adabccc2a86ec43643d6bbcaf",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/spider-pansou-test.jar;md5;8935ee904baae23778f867f95600c728",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
