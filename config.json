@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/spider-pansou-test.jar;md5;8935ee904baae23778f867f95600c728",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/spider-pansou-test.jar;md5;67e368c5b669292ef28d77f08f07102e",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
@@ -364,6 +364,18 @@
           "https://woggpan.xxooo.cf"
         ]
       },
+      "timeout": 60
+    },
+    {
+      "key": "InMe",
+      "name": "InMe • 网盘",
+      "type": 3,
+      "api": "csp_InMe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://inme.anivixe.com",
       "timeout": 60
     },
     {
