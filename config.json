@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/my-spider.jar;md5;c655cac7f62aa84354d4952d1d0366ed",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/my-spider.jar;md5;0265334333f9c8785dcd727d735b6b0f",
   "sites": [
     {
       "key": "kan360",
@@ -8,6 +8,23 @@
       "api": "csp_Kan360",
       "searchable": 1,
       "ext": {}
+    },
+    {
+      "key": "Wogg",
+      "name": "玩偶哥哥丨网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 1,
+      "timeout": 60,
+      "ext": {
+        "site": [
+          "https://www.wogg.live",
+          "https://woggpan.888484.xyz",
+          "https://wogg.xxooo.cf",
+          "https://woggpan.xxooo.cf"
+        ]
+      }
     }
   ]
 }
