@@ -1,5 +1,5 @@
 {
-  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/my-spider.jar;md5;75aa65f4363a0647b5b6612b4c4b5855",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/17355972127/spider-da/main/my-spider.jar;md5;fd653e0c997e0cb450d4a63a11daf581",
   "sites": [
     {
       "key": "kan360",
@@ -23,7 +23,15 @@
           "https://woggpan.888484.xyz",
           "https://wogg.xxooo.cf",
           "https://woggpan.xxooo.cf"
-        ]
+        ],
+        "panApi": "",
+        "token": {
+          "baidu": "",
+          "quark": "",
+          "ali": "",
+          "uc": "",
+          "115": ""
+        }
       }
     }
   ]
